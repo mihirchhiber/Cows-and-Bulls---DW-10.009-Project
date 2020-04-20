@@ -64,6 +64,10 @@ Turtle helps in setting up user display and tkinter provides GUI for the user to
 Stores the highscore and name of the user. This is retrieved to display in the game and updated if the user sets a new highscore.
 
 
+## Video Link
+
+https://youtu.be/xX2yH2p48uc
+
 ## Contributor
 
 **Mihir Chhiber** - 1004359 - F01
